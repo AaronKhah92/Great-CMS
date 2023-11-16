@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Great CMS</title>
+    <link href="https://coruscating-sorbet-fedeb8.netlify.app/feed.xml" rel="self" />
+    <link href="https://coruscating-sorbet-fedeb8.netlify.app" />
+    <updated>2023-11-16T11:31:24+01:00</updated>
+    <author>
+        <name>Aaron Ahmadi</name>
+    </author>
+    <id>https://coruscating-sorbet-fedeb8.netlify.app</id>
+
+    <entry>
+        <title>TESTING</title>
+        <author>
+            <name>Aaron Ahmadi</name>
+        </author>
+        <link href="https://coruscating-sorbet-fedeb8.netlify.app/testing.html"/>
+        <id>https://coruscating-sorbet-fedeb8.netlify.app/testing.html</id>
+
+        <updated>2023-11-16T11:31:24+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

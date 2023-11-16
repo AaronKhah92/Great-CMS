@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Great CMS",
+    "description": "",
+    "home_page_url": "https://coruscating-sorbet-fedeb8.netlify.app",
+    "feed_url": "https://coruscating-sorbet-fedeb8.netlify.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aaron Ahmadi"
+    },
+    "items": [
+        {
+            "id": "https://coruscating-sorbet-fedeb8.netlify.app/testing.html",
+            "url": "https://coruscating-sorbet-fedeb8.netlify.app/testing.html",
+            "title": "TESTING",
+            "author": {
+                "name": "Aaron Ahmadi"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-16T11:31:24+01:00",
+            "date_modified": "2023-11-16T11:31:24+01:00"
+        }
+    ]
+}
